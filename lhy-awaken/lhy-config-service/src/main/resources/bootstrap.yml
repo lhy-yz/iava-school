@@ -1,0 +1,11 @@
+#config ???? ??bootstrap.yml
+spring:
+  application:
+    name: com.yz.zuoai
+  cloud:
+    nacos:
+      server-addr: localhost:8848
+      username: nacos
+      password: nacos
+      config:
+        namespace: dev
