@@ -12,7 +12,7 @@ import java.util.Date;
 /**
  * @author lhy
  * @date 2024/9/6
- * @apiNote
+ * @apiNote 类
  **/
 
 @Data
